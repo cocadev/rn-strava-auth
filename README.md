@@ -1,4 +1,4 @@
-# str - React Native Strava authentication
+# strava authentication - React Native App
 
 str is a React Native application consuming Strava RESTFul web service.
 
