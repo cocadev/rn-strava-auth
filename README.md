@@ -1,6 +1,6 @@
 # strava authentication - React Native App
 
-str is a React Native application consuming Strava RESTFul web service.
+rn-strava-auth is a React Native application consuming Strava RESTFul web service.
 
 
 # Requirements
